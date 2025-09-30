@@ -1,0 +1,17 @@
+.header{
+    background-color: darkblue;
+    margin:0px;
+    padding:0px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header li{
+    margin:2px 10px 2px 10px;
+    padding:10px;
+    border:1px solid whitesmoke;
+    background-color: lightcyan;
+    color:darkblue;
+    font:bold 20px 'comic sans ms';
+}
